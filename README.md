@@ -5,10 +5,11 @@ Features:
 Headline Retrieval: The script retrieves the headlines of the top stories from Google News.
 Dynamic Updating: It continuously fetches headlines at regular intervals, providing real-time updates on the news.
 Timestamp: Each update is accompanied by a timestamp in the IST (Indian Standard Time) timezone.
+
 Requirements:
 Selenium: Ensure you have Selenium installed. You can install it via pip:
-
 pip install selenium
+
 Chrome WebDriver: The script requires Chrome WebDriver to interface with the Chrome browser. Make sure you have Chrome WebDriver installed and its path properly set. Ensure that you use the chromedriver version that matches your Chrome version.
 
 How to Use:
