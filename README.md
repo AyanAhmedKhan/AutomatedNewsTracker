@@ -17,15 +17,13 @@ Clone the repository or download the script.
 Install the required dependencies.
 
 Run the script using Python:
-
-bash
-Copy code
 python news_scraper.py
 Sit back and watch as the script fetches the latest headlines from Google News.
 
 Customization:
 Time Interval: You can adjust the time interval between each update by modifying the time.sleep() function parameter in the script.
 XPath: If Google News' HTML structure changes, you may need to update the XPath expression used to locate the headlines.
+
 Disclaimer:
 This script is meant for educational purposes and should be used responsibly. Web scraping may violate the terms of service of websites, so ensure compliance with relevant policies and regulations before using it in a production environment.
 
